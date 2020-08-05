@@ -1,4 +1,4 @@
-package com.tonyngeno;
+package com.tonyngeno.ReverseHello;
 
 public class ReverseHello extends Thread {
 

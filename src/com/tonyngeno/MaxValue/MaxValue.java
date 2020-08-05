@@ -1,4 +1,4 @@
-package com.tonyngeno;
+package com.tonyngeno.MaxValue;
 
 public class MaxValue extends Thread{
 

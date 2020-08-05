@@ -1,4 +1,4 @@
-package com.tonyngeno;
+package com.tonyngeno.SharedCounter;
 
 public class SharedCounter extends Counterthread {
 
